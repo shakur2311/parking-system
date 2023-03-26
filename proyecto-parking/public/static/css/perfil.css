@@ -1,0 +1,14 @@
+#datos-card{
+    position: relative;
+}
+
+#datos-card .botones{
+    position: absolute;
+    
+    right:10px;
+    bottom:10px;
+}
+
+img{
+    width:100%;
+}
